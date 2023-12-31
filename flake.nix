@@ -2,7 +2,7 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/23.11";
     flake-utils.url = "github:numtide/flake-utils";
-    brack.url = "github:brack-lang/brack";
+    brack.url = "github:brack-lang/brack/41353171388ede015e60214fefc0b636f951f1b3";
     brack-std-html.url = "github:brack-lang/std-html";
   };
 

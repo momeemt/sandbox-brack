@@ -9,16 +9,17 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1704017421,
-        "narHash": "sha256-LbiHU/PP2kWcB7of+gzRJMvtA2m+wwmn7VA0pTjNY80=",
+        "lastModified": 1704024478,
+        "narHash": "sha256-KN1kQWI9pKDy7XNxkz+/P0iBBGPBlFOSOoDW5KBfezE=",
         "owner": "brack-lang",
         "repo": "brack",
-        "rev": "4a3c735b85a71ded82d2533d67b10d2aa1d89500",
+        "rev": "41353171388ede015e60214fefc0b636f951f1b3",
         "type": "github"
       },
       "original": {
         "owner": "brack-lang",
         "repo": "brack",
+        "rev": "41353171388ede015e60214fefc0b636f951f1b3",
         "type": "github"
       }
     },
